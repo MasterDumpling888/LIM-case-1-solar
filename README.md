@@ -32,7 +32,7 @@ This project is a case study for Stratpoint. It focuses on developing a system d
 
 ### Prerequisites
 
-- Python 3.9+
+- Python 3.11+
 - (Conda) Virtual environment (optional but recommended)
 
 ### Setup
