@@ -1,0 +1,13 @@
+pandas
+numpy
+xgboost
+scikit-learn
+joblib
+rasterio
+shap
+matplotlib
+langchain
+langchain-groq
+langchain-core
+python-dotenv
+gradio
